@@ -1,0 +1,1 @@
+<?= $pibody['catalog/suggest'] ?>
